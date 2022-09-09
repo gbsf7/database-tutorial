@@ -34,8 +34,8 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
     -	IS NULL parameter
     -	ORDER BY parameter
 	  - LIMIT parameter
-	  - Updating Data in our table 
-	  - Deleting Data in our Table
+12. Updating Data in our table 
+13. Deleting Data in our Table
 ## Chapter 3 – As One
 14.	Joining Table 
 	  - INNER JOIN
