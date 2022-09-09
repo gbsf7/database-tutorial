@@ -1,4 +1,13 @@
 # GDSC Learning Path V.1
+This is a draft of GDSC's Database Development Tutorial <i>`(idk what to call it)`</i>
+Each chapter consist of some basic SQL Syntaxs and a brief explanation on what certain stuff is.
+
+
+| To Do | Status |
+| ------ | ------ |
+| Add some Queries | 🔄 On Progress |
+| Do some quizes | ❌ No Progress |
+| Add Challenges | ❌ No Progress |
 
 ## Chapter 1 - Prerequisite
 1.	What is Database ?
