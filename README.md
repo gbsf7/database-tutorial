@@ -38,6 +38,7 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 12. Updating Data in our table 
 13. Deleting Data in our Table
 ## Chapter 3 – As One
+### Chapter 3 Part One
 14.	Joining Table 
 	  - INNER JOIN
 	  - Joining Across Databases
@@ -51,6 +52,7 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 	  - NATURAL JOIN
 	  - CROSS JOIN
 	  - UNION
+### Chapter 3 Part Two
 15.	Column Attributes
 16.	Inserting Single Row
 17.	Inserting Multiple Rows
