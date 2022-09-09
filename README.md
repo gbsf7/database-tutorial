@@ -11,16 +11,16 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 | Add Challenges | ❌ No Progress |
 
 ## Chapter 1 - Prerequisite
-1.	What is Database ?
+1.	What is Database ?  *`(Working on Scripts to read)`*
     - SQL (Sequel)
     - NoSQL
 2.	What is MySQL ?
 3.	What is Xampp ?
-4.	Installing MySQL. (Two Options, XAMPP or Straight thru MySQL Website)
+4.	Installing MySQL. (Two Options, XAMPP or Straight thru MySQL Website) *`(XAMPP Easiest, from MySQL Website a bit longer)`*
 5.	Creating our first Database
 6.	Creating our first Table
 ## Chapter 2 – CRUD Implementation | Longest one by far.
-7.	What is CRUD ?
+7.	What is CRUD ? *`(Should i add API ?)`*
 8.	CRUD Example in other application
 9.	CRUD in SQL
 10.	Inserting Data to our Table
