@@ -10,7 +10,7 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 | Do some quizes | ❌ No Progress |
 | Add Challenges | ❌ No Progress |
 | Make PPT | ❌ No Progress |
-| Make Text-based Tutorial | ❌ No Progress |
+| Make Text-based Tutorial | 🔄 On Progress |
 
 ## Chapter 1 - Prerequisite
 1.	What is Database ?  *`(Working on Scripts to read)`*
@@ -64,3 +64,16 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 21.	Updating Multiple Rows
 22.	Using Subqueries in Updates
 23.	Deleting Rows
+
+
+# Installing MySQL
+There are two ways to install MySQL Database, first is to use XAMPP LAMP Application, or Second is to use the Official MySQL Community Server file from MySQL Page
+
+## XAMPP
+### Getting Started
+First you need to Download XAMPP Installer files from The Official [XAMPP Download Site](https://www.apachefriends.org/download.html), then Run the Installation File.
+
+_Do note that XAMPP needs write permission if you want to use MySQL, the installer SHOULD prompt you that it's better to not put XAMPP files in the C: Directory so Install it somewhere else to avoid unecessary problems._
+
+
+
