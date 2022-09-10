@@ -1,5 +1,5 @@
 [![GDSC](https://i.postimg.cc/qRP6BRqZ/GDSC-Database-Horizontal-color.png)](https://gdsc.community.dev/universitas-sultan-ageng-tirtayasa/)
-# GDSC Database Learning Path V.220910
+# GDSC Database Learning Path V0.1.10
 This is a draft of GDSC's Database Development Tutorial <i>`(idk what to call it)`</i>
 Each chapter consist of some basic SQL Syntaxs and a brief explanation on what certain stuff is.
 
