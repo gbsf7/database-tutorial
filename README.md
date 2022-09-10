@@ -67,13 +67,24 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 
 
 # Installing MySQL
-There are two ways to install MySQL Database, first is to use XAMPP LAMP Application, or Second is to use the Official MySQL Community Server file from MySQL Page
+There are two ways to install MySQL Database, first is to use XAMPP Installer, or Second is to use the Official MySQL Community Server Installer from MySQL Page
 
 ## XAMPP
 ### Getting Started
-First you need to Download XAMPP Installer files from The Official [XAMPP Download Site](https://www.apachefriends.org/download.html), then Run the Installation File.
+First you need to download XAMPP installation files from the official [XAMPP Download Site](https://www.apachefriends.org/download.html), then run the Installer.
 
-_Do note that XAMPP needs write permission if you want to use MySQL, the installer SHOULD prompt you that it's better to not put XAMPP files in the C: Directory so Install it somewhere else to avoid unecessary problems._
+![XAMPP](https://i.postimg.cc/K8s6qnrx/image.png)
 
+_Do note that XAMPP needs write permission if you want to use MySQL, the installer SHOULD prompt you that it's better to not put XAMPP files in the C: Directory so install it somewhere else to avoid unecessary problems._
+
+After it's done, you should be prompted if you wanna open XAMPP Control Panel, Check the box and click finish
+
+in the Control Panel, Start the apache and MySQL module
+
+![XAMPP_Control_Panel](https://i.postimg.cc/6qFKmgvV/image.png)
+
+Then open [PHPMyAdmin](http://localhost/phpmyadmin) or type localhost/phpmyadmin in your browser.
+
+Installation is Done!
 
 
