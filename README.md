@@ -9,6 +9,8 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 | Add some Queries | 🔄 On Progress |
 | Do some quizes | ❌ No Progress |
 | Add Challenges | ❌ No Progress |
+| Make PPT | ❌ No Progress |
+| Make Text-based Tutorial | ❌ No Progress |
 
 ## Chapter 1 - Prerequisite
 1.	What is Database ?  *`(Working on Scripts to read)`*
