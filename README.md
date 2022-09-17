@@ -26,19 +26,19 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 9.	CRUD in SQL
 10.	Inserting Data to our Table
 11.	SELECT(Reading Data) in our Table
-	  - Adding parameters to or SELECT args
-	  - WHERE parameter
-	  - AND, or, NOT parameter
+	- Adding parameters to or SELECT args
+	- WHERE parameter
+	- AND, or, NOT parameter
     - IN parameter
     - BETWEEN parameter
     - LIKE parameter
     - REGEXP parameter
     -	IS NULL parameter
     -	ORDER BY parameter
-	  - LIMIT parameter
+	- LIMIT parameter
 12. Updating Data in our table 
 13. Deleting Data in our Table
-## Chapter 3 – As One
+## Chapter 3 – Table Join
 ### Chapter 3 Part One
 14.	Joining Table 
 	  - INNER JOIN
@@ -53,7 +53,7 @@ Each chapter consist of some basic SQL Syntaxs and a brief explanation on what c
 	  - NATURAL JOIN
 	  - CROSS JOIN
 	  - UNION
-### Chapter 3 Part Two
+### Chapter 3 Part Two - Column Attributes.
 15.	Column Attributes
 16.	Inserting Single Row
 17.	Inserting Multiple Rows
