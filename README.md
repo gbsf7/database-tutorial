@@ -70,7 +70,7 @@ There are two ways to install MySQL Database, first is to use XAMPP Installer, o
 
 ## XAMPP
 ### Getting Started
-First you need to download XAMPP installation files from the official [XAMPP Download Site](https://www.apachefriends.org/download.html), then run the Installer.
+First you need to download XAMPP installation files from the official [XAMPP Download Page](https://www.apachefriends.org/download.html), then run the Installer.
 
 ![XAMPP](https://i.postimg.cc/K8s6qnrx/image.png)
 
@@ -85,5 +85,11 @@ in the Control Panel, Start the apache and MySQL module
 Then open [PHPMyAdmin](http://localhost/phpmyadmin) or type localhost/phpmyadmin in your browser.
 
 Installation is Done!
+
+## MySQL Community Server Installer
+### Getting Started
+First you need to download MySQL Community Server Edition from [MySQL Download Page](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+
+The Installer should guide you through the installation, choose all default option. When it's done, you can access it using [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
 
