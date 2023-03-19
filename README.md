@@ -1,15 +1,5 @@
 [![GDSC](https://i.postimg.cc/qRP6BRqZ/GDSC-Database-Horizontal-color.png)](https://gdsc.community.dev/universitas-sultan-ageng-tirtayasa/)
-# GDSC Database Learning Path V0.1.10
-This is a draft of GDSC's Database Development Tutorial <i>`(idk what to call it)`</i>
-Each chapter consist of some basic SQL Syntaxs and a brief explanation on what certain stuff is.
-
-| To Do | Status |
-| ------ | ------ |
-| Add some Queries | 🔄 On Progress |
-| Do some quizes | ❌ No Progress |
-| Add Challenges | ❌ No Progress |
-| Make PPT | ❌ No Progress |
-| Make Text-based Tutorial | 🔄 On Progress |
+# GDSC Database Learning Path
 
 ## Chapter 1 - Prerequisite
 1.	What is Database ?  *`(Working on Scripts to read)`*
@@ -74,7 +64,7 @@ First you need to download XAMPP installation files from the official [XAMPP Dow
 
 ![XAMPP](https://i.postimg.cc/K8s6qnrx/image.png)
 
-_Do note that XAMPP needs write permission if you want to use MySQL, the installer SHOULD prompt you that it's better to not put XAMPP files in the C: Directory so install it somewhere else to avoid unecessary problems._
+_Do note that XAMPP needs write permission if you want to use XAMPP MySQL, the installer SHOULD prompt you that it's better to not put XAMPP files in the C: Directory so install it elsewhere to avoid unecessary problems._
 
 After it's done, you should be prompted if you wanna open XAMPP Control Panel, Check the box and click finish
 
